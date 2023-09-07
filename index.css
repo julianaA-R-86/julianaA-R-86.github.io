@@ -2,4 +2,24 @@
     .h1{
         font-size: 20px;
     }
+    #corregir{
+        position: relative;
+        bottom: -19px;
+        left: -45px;
+    }
+    .botom{
+        position: relative;
+        height: 55px;
+        width: 65px;
+        text-align: center;
+        bottom: 5px;
+        right: -150px;
+        display: flex;
+    }
+    a{
+        font-size: 15px;
+        text-decoration: none;
+        justify-content: center;
+        color: white;
+    }
 }
