@@ -1,5 +1,5 @@
 
-alert("Hola mi nombre es R.I, 😁 soy un programa creado por la empresa LAGS 🐹, mi proposito es brindarte examenes que puedas resolver 🙌😊, y que puedas aprender de la manera mas facil posible suerte")
+alert("Hola mi nombre es R.I, 😁 soy un programa creado por la maestra Juliana Apaza Roca 🐹, mi proposito es brindarte examenes que puedas resolver 🙌😊, y que puedas aprender de la manera mas facil posible suerte")
 let usuario = prompt("¿Cuál es tu nombre completo y apellido?. 😊 ");
 alert("mucho gusto!.😊😘:  " + usuario )
 let ia = prompt("ahora es tu turno, deacuerdo 😊 " + usuario + " debes de asignarme un apodo o nombre, que sea apropiado plis 😁😊");
@@ -8,7 +8,7 @@ let año = prompt("que año cursas 🤷‍♂️😁 " + usuario )
 
 alert ("bueno continuemos con este examen" + año + " del área de Ciencias Sociales de la maestra Juliana Apaza Roca 😊🙌")
 alert(`buena suerte con el examen de 😁😘 ${año}, ${usuario}`)
-alert("estare dejando el enlace de mi canal de youtube en el boton de abajo apoyame con un like te lo agradeceria yo soy Axswel")
+
 
 
 
