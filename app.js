@@ -1,11 +1,30 @@
+
+// alert("Hola mi nombre es R.I, 😁 soy un programa creado por la empresa LAGS 🐹, mi proposito es brindarte examenes que puedas resolver 🙌😊, y que puedas aprender de la manera mas facil posible suerte")
+// let usuario = prompt("¿Cuál es tu nombre completo y apellido?. 😊 ");
+// alert("mucho gusto!.😊😘:  " + usuario )
+// let ia = prompt("ahora es tu turno, deacuerdo 😊 " + usuario + " debes de asignarme un apodo o nombre, que sea apropiado plis 😁😊");
+// alert("increible me gusta mi apodo ❤️ " + ia + " ahora prosigamos " + usuario );
+// let año = prompt("que año cursas 🤷‍♂️😁 " + usuario )
+
+// alert ("bueno continuemos con este examen" + año + " del área de Ciencias Sociales de la maestra Juliana Apaza Roca 😊🙌")
+// alert(`buena suerte con el examen de 😁😘 ${año}, ${usuario}`)
+// alert("estare dejando el enlace de mi canal de youtube en el boton de abajo apoyame con un like te lo agradeceria yo soy Axswel")
+
+
+
+
+
+
+
+
 const bd_juego=[
     {
 
 id:0,
-pregunta:"Un archivo o conjunto de archivos multiples informaciones que, de alguna forma, guardan relacion:",
-op0:"Un Sistema Gestor de Bases de Datos (SGBD)",
-op1:"una aplicacion informatica para el manejo de bases de datos",
-op2:"una base de datos",
+pregunta:"La extracción de caucho o goma elástica se inició en Bolivia en el año:",
+op0:"2004 Beni- Pando y Cochabamba",
+op1:"1953 Beni- Pando y norte de Potosí",
+op2:"1870 Beni- Pando y Norte de La Paz",
 op3:" ninguna de las anteriores",
 
 correcta:"2"
@@ -17,10 +36,10 @@ correcta:"2"
 {
 
     id:1,
-    pregunta:"De los siguientes acronimos, indica cual es un Sistema Gestor de Bases de datos(SGBD):",
-    op0:"EXCEL",
-    op1:"MYSQL",
-    op2:"BASE",
+    pregunta:"El auge de la goma se extendió hasta la segunda década del siglo:",
+    op0:"XV",
+    op1:"XX",
+    op2:"XVI",
     op3:"ninguno de los anteriores",
     
     correcta:"1"
@@ -31,10 +50,10 @@ correcta:"2"
     {
 
         id:2,
-        pregunta:"Estos iconos pertenecen a dos aplicaciones informaticos para bases de datos diferentes, pero ambos significan lo mismo:",
-        op0:"Tablas",
-        op1:"Formularios",
-        op2:"Informes",
+        pregunta:"fue otra zona de explotación de importancia regional fue la provincia:",
+        op0:"b) Velasco(norte de cochabamba)",
+        op1:"a) Velasco (norte de Santa Cruz)",
+        op2:"c) Velasco (norte de pando).",
 
       
         
@@ -45,10 +64,10 @@ correcta:"2"
         {
 
             id:3,
-            pregunta:"En el contexto de una aplicacion para bases de datos, este icono significa",
-            op0:"Login o contraseña requerida",
-            op1:"Campo o registro bloqueado",
-            op2:"Clave o llave primaria(o principal)",
+            pregunta:"Fue el solado que habia sido centinela y vio una emboscada que venia y dio la vida por el Acre.",
+            op0:"b) Nicolas Suarez",
+            op1:"c) Dr Antonio Vaca Diez",
+            op2:"a) Maximiliano Paredes Tejerina",
         
             
             correcta:"2"
@@ -59,10 +78,10 @@ correcta:"2"
             {
 
                 id:4,
-                pregunta:"Que es una base de datos",
-                op0:"Una base de datos es un conjunto de informatico relacionada entre si",
-                op1:"El conjunto de valores que puede tomar un atributo",
-                op2:"Uno o varios que sirvan para distinguir cada entidad en la relacion",
+                pregunta:"La columna Porvenir estuvo al mando del",
+                op0:"B) Cnel Federico Roman.",
+                op1:"A) Tn. Cnel Antonio Sevilla",
+                op2:"C) Sgto Poma Chungara.",
                 
                 
                 correcta:"0"
@@ -74,9 +93,9 @@ correcta:"2"
                 {
 
                     id:5,
-                    pregunta:"¿Que es una relacion?",
-                    op0:"Son vinculos entre tablas",
-                    op1:"Especifica si es necesario que exista un valor en un campo",
+                    pregunta:"Bruno Racua era de Ixiamas con  origen",
+                    op0:"Tacana",
+                    op1:"Esse Ejja",
                     op2:"ambas son ciertas",
                     
                     
@@ -87,10 +106,10 @@ correcta:"2"
                     {
 
                         id:6,
-                        pregunta:"¿Que es una clave Principal?",
-                        op0:"Una clave principal identifica exclusivamente cada registro almacenado en la tabla",
-                        op1:"una clave principal no permite duplicar registros en una tabla",
-                        op2:"las dos anteriores son correctas",
+                        pregunta:"La batalla de Puerto Rico se da en enero de 1903 al mando de",
+                        op0:"B) Manuel Isidoro Belzu  ",
+                        op1:"C) Adolfo Hittler",
+                        op2:"A) José Manuel Pando       ",
                        
                         
                         correcta:"2"
@@ -101,10 +120,10 @@ correcta:"2"
                         {
 
                             id:7,
-                            pregunta:"¿Que es Microsoft SQL SERVER?",
-                            op0:"Para el juego",
-                            op1:"Sirve para borrar tu base de datos",
-                            op2:"SQL SERVER es el sistema de administracion de bases de datos relacionales(RDBMS)de Microsoft",
+                            pregunta:"el tratado de Petropolis fue firmado el 17 de noviembre de 1903 al mando de:",
+                            op0:"b) Jose  Manuel Pando            ",
+                            op1:"c) Claudio Pinilla.",
+                            op2:"a) Fernando Guachalla",
                             op3:" ninguna de las anteriores",
                             
                             correcta:"2"
@@ -114,10 +133,10 @@ correcta:"2"
                             {
 
                                 id:8,
-                                pregunta:"¿Quien es el creador de SQL ?",
-                                op0:"Donald D. Chamberlin",
-                                op1:"Mark Zuckberger",
-                                op2:"Bill Gates",
+                                pregunta:"En el  tratado de Petropolis  Bolivia cedió una superficie de:",
+                                op0:"A)191.000km",
+                                op1:"c) 160.00km",
+                                op2:"b) 2.00000km",
                               
                                 
                                 correcta:"0"
@@ -128,10 +147,10 @@ correcta:"2"
                                 {
 
                                     id:9,
-                                    pregunta:"¿Que empresas utilizan bases de datos?",
-                                    op0:"Apple",
-                                    op1:"Facebook",
-                                    op2:"ambas son correctas",
+                                    pregunta:"El conflicto de la guerra del Acre se inico en1898 con la creación de:",
+                                    op0:"C) Puerto Rico",
+                                    op1:"B) Puerto Bahia",
+                                    op2:"A) Puerto Alonso",
                                  
                                     
                                     correcta:"2"
@@ -169,7 +188,7 @@ function cargarPreguntas()
 const h2= document.createElement("h2");
 
 
-h2.textContent = pregunta.id + 1 +" - " + pregunta.pregunta;
+h2.textContent = pregunta.id + 1 +" .- " + pregunta.pregunta;
 contenedor.appendChild(h2);
 const opciones = document.createElement("div");
 
