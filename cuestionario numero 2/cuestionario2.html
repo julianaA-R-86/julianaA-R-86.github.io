@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Juego de preguntas de Ciencias sociales</title>
-    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="cuestionario2.css">
 </head>
 <body>
 
@@ -19,9 +19,6 @@
 
 
 <button id="corregir">Ver tus Respuestas</button>
-<!-- <button class="botom"><a href="https://www.youtube.com/@PejichiGamer">Clic Aqui</a></button> -->
-
-
 
 
 <style>
@@ -39,7 +36,7 @@ scroll-behavior: smooth;
 
 body{
 font-size: 20px;
-background: teal;
+background: rgb(236, 231, 236);
 padding-bottom: 15px;
 }
 
@@ -48,6 +45,12 @@ padding-bottom: 15px;
 h1{
 
 text-align: center;
+background: rgba(27, 39, 95, 0.699);
+color: white;
+font-family:serif ;
+border-radius: 2em;
+border: solid 2px white;
+height: 55px;
 
 }
 
@@ -59,7 +62,7 @@ margin: auto;
 
 
 .contenedor-pregunta{
-border: 1px solid white;
+border: 1px solid rgb(255, 255, 255);
 border-radius: 10px;
 padding: 10px;
 margin-bottom: 20px;
@@ -83,11 +86,13 @@ margin-right: 10px;
 }
 
 .correcta {
-background-color: dodgerblue;
+background-color: rgba(1, 81, 161, 0.329);
+color: white;
 }
 
 .incorrecta {
-background-color: red;
+background-color: rgba(255, 0, 0, 0.411);
+color: white;
 }
 
 
@@ -115,7 +120,7 @@ border-radius:50%;
 display: flex;
 align-items: center;
 justify-content: center;
-border: 2px solid white;
+border: 3px solid rgb(255, 255, 255);
 margin-left: 15px;
 
 
@@ -136,10 +141,27 @@ font-size: 20px;
 cursor: pointer;
 }
 
+button:hover {
+    width: fit-content;
+display: block;
+margin: auto;
+border: 1px solid black;
+background: rgb(57, 95, 133);
+color: white;
+padding: 10px 20px;
+font-size: 20px;
+cursor: pointer;
+transition: .5s;
+}
 
 .resultado{
 text-align: center;
-
+background: rgba(114, 129, 255, 0.699);
+color: white;
+border: 1px solid black;
+font-size: 25px;
+border-radius: 2em;
+height: 35px;
 
 }
 
@@ -148,6 +170,13 @@ text-align: center;
 
 </style>
 
+
+
+
+
+
+
+<div class="regresar"><a href="../index.html">Clic aqui para regresar</a></div>
 
 <script src="cuestionario2.js"></script>
 

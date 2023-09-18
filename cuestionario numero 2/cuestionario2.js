@@ -3,10 +3,10 @@ const bd_juego=[
     {
 
 id:0,
-pregunta:"La extracción de caucho o goma elástica se inició en Bolivia en el año:",
-op0:"2004 Beni- Pando y Cochabamba",
-op1:"1953 Beni- Pando y norte de Potosí",
-op2:"1870 Beni- Pando y Norte de La Paz",
+pregunta:"¿En que año fue la elección representando al poder de la plata?",
+op0:"2004",
+op1:"1953",
+op2:"1844",
 op3:" ninguna de las anteriores",
 
 correcta:"2"
@@ -18,10 +18,10 @@ correcta:"2"
 {
 
     id:1,
-    pregunta:"El auge de la goma se extendió hasta la segunda década del siglo:",
+    pregunta:"¿En que siglo bolivia enfrento la guerra federal?",
     op0:"XV",
-    op1:"XX",
-    op2:"XVI",
+    op1:"XIX",
+    op2:"XV",
     op3:"ninguno de los anteriores",
     
     correcta:"1"
@@ -32,10 +32,10 @@ correcta:"2"
     {
 
         id:2,
-        pregunta:"fue otra zona de explotación de importancia regional fue la provincia:",
-        op0:"b) Velasco(norte de cochabamba)",
-        op1:"a) Velasco (norte de Santa Cruz)",
-        op2:"c) Velasco (norte de pando).",
+        pregunta:"¿En que año gobernó Sebero Fernandez Alonso?",
+        op0:"del 6 de julio de 1950 hasta el 7 de septiembre de 1953",
+        op1:"del 18 de agosto de 1896 hasta el 10 de abril de 1899",
+        op2:"del 4 de abril de 1789 hasta el 23 de marzo de 1793",
 
       
         
@@ -46,10 +46,10 @@ correcta:"2"
         {
 
             id:3,
-            pregunta:"Fue el solado que habia sido centinela y vio una emboscada que venia y dio la vida por el Acre.",
-            op0:"b) Nicolas Suarez",
-            op1:"c) Dr Antonio Vaca Diez",
-            op2:"a) Maximiliano Paredes Tejerina",
+            pregunta:"En que año los conservadores ingresarón al poder y le bloquearón las posibilidades a los liberales",
+            op0:"En el año 1986 con la elección de la presidente janine añez",
+            op1:"En el año 2023 con la eleccion del presidente evo",
+            op2:"en el año 1896 con la elección de severo fernadez alonso.",
         
             
             correcta:"2"
@@ -60,10 +60,10 @@ correcta:"2"
             {
 
                 id:4,
-                pregunta:"La columna Porvenir estuvo al mando del",
-                op0:"B) Cnel Federico Roman.",
-                op1:"A) Tn. Cnel Antonio Sevilla",
-                op2:"C) Sgto Poma Chungara.",
+                pregunta:"¿Por quien fue sustituido jose manuel Pando?",
+                op0:"Eleodoro Montaño",
+                op1:"Zarate Willca",
+                op2:"Severo Fernadez",
                 
                 
                 correcta:"0"
@@ -75,23 +75,23 @@ correcta:"2"
                 {
 
                     id:5,
-                    pregunta:"Bruno Racua era de Ixiamas con  origen",
-                    op0:"Tacana",
-                    op1:"Esse Ejja",
-                    op2:"ambas son ciertas",
+                    pregunta:"En que año se promulgo la polemica ley de radicatoria",
+                    op0:"15 de octubre de 1890",
+                    op1:"29 de noviembre de 1898",
+                    op2:"29 de noviembre de 1899",
                     
                     
-                    correcta:"0"
+                    correcta:"1"
                     
                     },
 
                     {
 
                         id:6,
-                        pregunta:"La batalla de Puerto Rico se da en enero de 1903 al mando de",
-                        op0:"B) Manuel Isidoro Belzu  ",
-                        op1:"C) Adolfo Hittler",
-                        op2:"A) José Manuel Pando       ",
+                        pregunta:"¿Cuales fueron las consecuencias de la promulgación de la ley de Radicatoria?",
+                        op0:"fue el detonante de la confrontación que esperaban en Cochabamba y los liberales",
+                        op1:"fue el detonante de la confrontación que esperaban en Sucre y los liberales",
+                        op2:"fue el detonante de la confrontación que esperaban en La Paz y los liberales",
                        
                         
                         correcta:"2"
@@ -102,11 +102,10 @@ correcta:"2"
                         {
 
                             id:7,
-                            pregunta:"el tratado de Petropolis fue firmado el 17 de noviembre de 1903 al mando de:",
-                            op0:"b) Jose  Manuel Pando            ",
-                            op1:"c) Claudio Pinilla.",
-                            op2:"a) Fernando Guachalla",
-                            op3:" ninguna de las anteriores",
+                            pregunta:"¿En que año promulgaron la junta federal?",
+                            op0:"10 de diciembre de 1898",
+                            op1:"11 de diciembre de 1898",
+                            op2:"12 de diciembre de 1898",
                             
                             correcta:"2"
                             
@@ -115,10 +114,10 @@ correcta:"2"
                             {
 
                                 id:8,
-                                pregunta:"En el  tratado de Petropolis  Bolivia cedió una superficie de:",
-                                op0:"A)191.000km",
-                                op1:"c) 160.00km",
-                                op2:"b) 2.00000km",
+                                pregunta:"¿Con quienes contaba la junta de representación?",
+                                op0:"Con el  partido liberal y del constitucional",
+                                op1:"Con el  partido Conservadores y del constitucional",
+                                op2:"Con el  partido Oligarcas y del constitucional",
                               
                                 
                                 correcta:"0"
@@ -129,15 +128,99 @@ correcta:"2"
                                 {
 
                                     id:9,
-                                    pregunta:"El conflicto de la guerra del Acre se inico en1898 con la creación de:",
-                                    op0:"C) Puerto Rico",
-                                    op1:"B) Puerto Bahia",
-                                    op2:"A) Puerto Alonso",
+                                    pregunta:"¿En quien recayo la presidencia?",
+                                    op0:"En Jose Barrientos",
+                                    op1:"En Juan Pari",
+                                    op2:"En Ismael Montes",
                                  
                                     
                                     correcta:"2"
                                     
-                                    },
+                                    }, 
+
+                                    {
+
+                                        id:10,
+                                        pregunta:"¿A quien designaron como presidente oficial en la junta?",
+                                        op0:"Ismael Montes",
+                                        op1:"Fernando Wachalla",
+                                        op2:"Fernando Siviora",
+                                     
+                                        
+                                        correcta:"1"
+                                        
+                                        },
+
+
+                                        {
+
+                                            id:11,
+                                            pregunta:"¿A quien nombrarón como Vice Presidente?",
+                                            op0:"Lidia Gueiler Tejada",
+                                            op1:"Mamerto Villa Roel",
+                                            op2:"Heriberto Gutierrez",
+                                         
+                                            
+                                            correcta:"2"
+                                            
+                                            },
+
+
+                                            {
+    
+                                                id:12,
+                                                pregunta:"¿Cuantos soldados defendieron los derechos del pueblo paceño?",
+                                                op0:"Mas de 4000 hombres de diferentes Cuarteles",
+                                                op1:"Mas de 6000 hombres de diferentes Cuarteles",
+                                                op2:"Mas de 3000 hombres de diferentes Cuarteles",
+                                             
+                                                
+                                                correcta:"0"
+                                                
+                                                },
+
+
+                                                {
+        
+                                                    id:13,
+                                                    pregunta:"¿En que año ocupo Fernandez Alonso la localidad de Viacha?",
+                                                    op0:"el 6 de julio del 1904",
+                                                    op1:"el 7 de abril de 1899",
+                                                    op2:"el 8 de enero de 1899",
+                                                 
+                                                    
+                                                    correcta:"2"
+                                                    
+                                                    },
+
+
+                                                    {
+            
+                                                        id:14,
+                                                        pregunta:"¿Cual era la idea principal de Fernandez alonso?",
+                                                        op0:"Tomar la ciudad de Viacha",
+                                                        op1:"Tomar la ciudad de La Paz",
+                                                        op2:"Tomar la ciudad de Sucre",
+                                                     
+                                                        
+                                                        correcta:"1"
+                                                        
+                                                        },
+
+
+                                                        {
+                
+                                                            id:15,
+                                                            pregunta:"¿Quien era Pablo Zarate Wilca?",
+                                                            op0:"Fue un caudillo militar lider aymara formado en las lineas del ejercito",
+                                                            op1:"Fue un caudillo militar lider Guarani formado en las lineas del ejercito",
+                                                            op2:"Fue un caudillo militar lider Guarayo formado en las lineas del ejercito",
+                                                         
+                                                            
+                                                            correcta:"0"
+                                                            
+                                                            },
+    
 
 
                 
@@ -303,5 +386,20 @@ corregir.onclick=function()
     document.getElementById("juego").appendChild(h2);
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
